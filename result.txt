@@ -1,4 +1,4 @@
-﻿广东频道,#genre#
+﻿常看,#genre#
 珠江,http://ci.emdoor.tech:8080/touchtv.php?pk=2513
 珠江,http://jyjxy.7766.org:8811/hls/17/index.m3u8
 珠江,http://219.135.208.218:8083/tsfile/live/0017_1.m3u8
